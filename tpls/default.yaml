@@ -1,0 +1,5 @@
+---
+name: test-demo
+namespace: platform-enablement
+label: default-value
+apiVersion: v0.1.0
